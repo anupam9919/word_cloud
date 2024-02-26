@@ -17,33 +17,29 @@ This is a Python application that generates word clouds from text input. It prov
    ```bash
    git clone https://github.com/your-username/word-cloud-generator.git
 
-    Install the required dependencies:
+2. Install the required dependencies:
 
-    bash
+   ```bash
+         pip install -r requirements.txt
 
-pip install -r requirements.txt
+3. Run the application:
 
-Run the application:
+   ```bash
+      python word_cloud_generator.py
 
-bash
+##Usage
+1. Text Input
+-Run the application.
+-Enter your text in the text box provided.
+-Click the "Generate Word Cloud" button.
 
-    python word_cloud_generator.py
+2. File Upload
+-Run the application.
+-Click the "Browse" button and select a text file.
+-Click the "Generate Word Cloud" button.
 
-Usage
-Text Input
+3. Phrase Selection
 
-    Run the application.
-    Enter your text in the text box provided.
-    Click the "Generate Word Cloud" button.
-
-File Upload
-
-    Run the application.
-    Click the "Browse" button and select a text file.
-    Click the "Generate Word Cloud" button.
-
-Phrase Selection
-
-    Run the application.
-    Select the desired phrase length from the dropdown menu.
-    Click the "Generate Word Cloud" button.
+-Run the application.
+-Select the desired phrase length from the dropdown menu.
+-Click the "Generate Word Cloud" button.
