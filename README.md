@@ -15,12 +15,12 @@ This is a Python application that generates word clouds from text input. It prov
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/word-cloud-generator.git
+      git clone https://github.com/your-username/word-cloud-generator.git
 
 2. Install the required dependencies:
 
    ```bash
-         pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the application:
 
@@ -30,16 +30,16 @@ This is a Python application that generates word clouds from text input. It prov
 ##Usage
 1. Text Input
 - Run the application.
--Enter your text in the text box provided.
--Click the "Generate Word Cloud" button.
+- Enter your text in the text box provided.
+- Click the "Generate Word Cloud" button.
 
 2. File Upload
--Run the application.
--Click the "Browse" button and select a text file.
--Click the "Generate Word Cloud" button.
+- Run the application.
+- Click the "Browse" button and select a text file.
+- Click the "Generate Word Cloud" button.
 
 3. Phrase Selection
 
--Run the application.
--Select the desired phrase length from the dropdown menu.
--Click the "Generate Word Cloud" button.
+- Run the application.
+- Select the desired phrase length from the dropdown menu.
+- Click the "Generate Word Cloud" button.
