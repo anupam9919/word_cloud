@@ -29,7 +29,7 @@ This is a Python application that generates word clouds from text input. It prov
 
 ##Usage
 1. Text Input
--Run the application.
+- Run the application.
 -Enter your text in the text box provided.
 -Click the "Generate Word Cloud" button.
 
